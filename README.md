@@ -19,7 +19,10 @@ University life is fragmented across multiple tools: event pages, maps, calendar
 ---
 ## ▶️ Demo
 
-https://github.com/user-attachments/assets/69de5a43-b077-43ba-bb68-7cb98fc98c0c
+
+https://github.com/user-attachments/assets/36576f31-5484-4fb9-b753-50564adab094
+
+
 
 
 ---
